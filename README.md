@@ -33,7 +33,59 @@ Talking about Personal Stuffs:
 - 🔭 I'm currently working on outsourcing like [Upwork](https://upwork.com), [Guru](https://guru.com), [Workana](https://workana.com) 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: kcaribou0428@gmail.com
+### My Followers
+<!--START_SECTION:top-followers-->
+<table>
+ <tr>
+  <td align="center">
+    <a href="https://github.com/devdreamsolution">
+      <img src="https://avatars1.githubusercontent.com/u/53613664?v=4" />
+      <br />
+      dfoltynski
+    </a> 
+  </td>
 
+  <td align="center">
+    <a href="https://github.com/hifeyasia">
+      <img src="https://avatars2.githubusercontent.com/u/50870406?v=4" />
+      <br />
+      gabrielhmelo
+    </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/Sophie627">
+      <img src="https://avatars3.githubusercontent.com/u/70294955?v=4" />
+      <br />
+      trojanjunior
+    </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/Tortu-Ch">
+      <img src="https://avatars1.githubusercontent.com/u/39160193?v=4" />
+      <br />
+      trylinka
+    </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/olabanjy">
+      <img src="https://avatars2.githubusercontent.com/u/52375207?v=4" />
+      <br />
+      tejastn10
+    </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/Darkhorse07232020">
+      <img src="https://avatars1.githubusercontent.com/u/66650409?v=4" />
+      <br />
+      hanzchiziterem
+    </a> 
+  </td>
+</tr>
+</table>
 ### Skills and Tools:
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
