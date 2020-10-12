@@ -39,7 +39,7 @@ Talking about Personal Stuffs:
  <tr>
   <td align="center">
     <a href="https://github.com/devdreamsolution">
-      <img src="https://avatars1.githubusercontent.com/u/53613664?v=4" />
+      <img src="https://avatars3.githubusercontent.com/u/54434088?s=400&u=66f82a0e6875034a697d2722a2bbc122f2ad4c9f&v=4" />
       <br />
       dfoltynski
     </a> 
