@@ -41,47 +41,39 @@ Talking about Personal Stuffs:
     <a href="https://github.com/devdreamsolution">
       <img src="https://avatars3.githubusercontent.com/u/54434088?v=4" />
       <br />
-      dfoltynski
-    </a> 
-  </td>
-
-  <td align="center">
-    <a href="https://github.com/hifeyasia">
-      <img src="https://avatars2.githubusercontent.com/u/50870406?v=4" />
-      <br />
-      gabrielhmelo
+      DevDreamSolution
     </a> 
   </td>
 
   <td align="center">
     <a href="https://github.com/Sophie627">
-      <img src="https://avatars3.githubusercontent.com/u/70294955?v=4" />
+      <img src="https://avatars0.githubusercontent.com/u/64086022?v=4" />
       <br />
-      trojanjunior
+      Sophie
     </a> 
   </td>
 
   <td align="center">
     <a href="https://github.com/Tortu-Ch">
-      <img src="https://avatars1.githubusercontent.com/u/39160193?v=4" />
+      <img src="https://avatars2.githubusercontent.com/u/65579678?v=4" />
       <br />
-      trylinka
+      Tortu
     </a> 
   </td>
 
   <td align="center">
     <a href="https://github.com/olabanjy">
-      <img src="https://avatars2.githubusercontent.com/u/52375207?v=4" />
+      <img src="https://avatars0.githubusercontent.com/u/38687956?v=4" />
       <br />
-      tejastn10
+      Olushola Albert
     </a> 
   </td>
 
   <td align="center">
     <a href="https://github.com/Darkhorse07232020">
-      <img src="https://avatars1.githubusercontent.com/u/66650409?v=4" />
+      <img src="https://avatars3.githubusercontent.com/u/67903345?v=4" />
       <br />
-      hanzchiziterem
+      Darkhorse
     </a> 
   </td>
 </tr>
