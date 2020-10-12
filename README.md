@@ -39,7 +39,7 @@ Talking about Personal Stuffs:
  <tr>
   <td align="center">
     <a href="https://github.com/devdreamsolution">
-      <img src="https://avatars3.githubusercontent.com/u/54434088?v=4" />
+      <img src="https://avatars3.githubusercontent.com/u/54434088?v=4" style="max-width:100%;min-width: 150px;" />
       <br />
       DevDreamSolution
     </a> 
@@ -47,7 +47,7 @@ Talking about Personal Stuffs:
 
   <td align="center">
     <a href="https://github.com/Sophie627">
-      <img src="https://avatars0.githubusercontent.com/u/64086022?v=4" />
+      <img src="https://avatars0.githubusercontent.com/u/64086022?v=4" style="max-width:100%;min-width: 150px;" />
       <br />
       Sophie
     </a> 
@@ -55,7 +55,7 @@ Talking about Personal Stuffs:
 
   <td align="center">
     <a href="https://github.com/Tortu-Ch">
-      <img src="https://avatars2.githubusercontent.com/u/65579678?v=4" />
+      <img src="https://avatars2.githubusercontent.com/u/65579678?v=4" style="max-width:100%;min-width: 150px;" />
       <br />
       Tortu
     </a> 
@@ -63,7 +63,7 @@ Talking about Personal Stuffs:
 
   <td align="center">
     <a href="https://github.com/olabanjy">
-      <img src="https://avatars0.githubusercontent.com/u/38687956?v=4" />
+      <img src="https://avatars0.githubusercontent.com/u/38687956?v=4" style="max-width:100%;min-width: 150px;" />
       <br />
       Olushola Albert
     </a> 
@@ -71,7 +71,7 @@ Talking about Personal Stuffs:
 
   <td align="center">
     <a href="https://github.com/Darkhorse07232020">
-      <img src="https://avatars3.githubusercontent.com/u/67903345?v=4" />
+      <img src="https://avatars3.githubusercontent.com/u/67903345?v=4" style="max-width:100%;min-width: 150px;" />
       <br />
       Darkhorse
     </a> 
