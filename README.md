@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=kcaribou&row=2&column=3&rank=S,AAA"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=kcaribou&row=2&column=3&theme=gruvbox"/>
 </p>
 
 ## Welcome 🎉 to my profile. 
