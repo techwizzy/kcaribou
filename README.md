@@ -37,7 +37,7 @@ Talking about Personal Stuffs:
 <!--START_SECTION:top-followers-->
 <table>
  <tr>
-  <td align="center" width="150px">
+  <td align="center" width="20%">
     <a href="https://github.com/devdreamsolution">
       <img src="https://avatars3.githubusercontent.com/u/54434088?v=4" />
       <br />
@@ -45,7 +45,7 @@ Talking about Personal Stuffs:
     </a> 
   </td>
 
-  <td align="center" width="150px">
+  <td align="center" width="20%">
     <a href="https://github.com/Sophie627">
       <img src="https://avatars0.githubusercontent.com/u/64086022?v=4" />
       <br />
@@ -53,7 +53,7 @@ Talking about Personal Stuffs:
     </a> 
   </td>
 
-  <td align="center" width="150px">
+  <td align="center" width="20%">
     <a href="https://github.com/Tortu-Ch">
       <img src="https://avatars2.githubusercontent.com/u/65579678?v=4" />
       <br />
@@ -61,7 +61,7 @@ Talking about Personal Stuffs:
     </a> 
   </td>
 
-  <td align="center" width="150px">
+  <td align="center" width="20%">
     <a href="https://github.com/olabanjy">
       <img src="https://avatars0.githubusercontent.com/u/38687956?v=4" />
       <br />
@@ -69,7 +69,7 @@ Talking about Personal Stuffs:
     </a> 
   </td>
 
-  <td align="center" width="150px">
+  <td align="center" width="20%">
     <a href="https://github.com/Darkhorse07232020">
       <img src="https://avatars3.githubusercontent.com/u/67903345?v=4" />
       <br />
