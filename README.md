@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=kcaribou&column=10&theme=onedark&include_all_commits=true"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=kcaribou&column=7&theme=onedark&include_all_commits=true"/>
 </p>
 
 ## Welcome 🎉 to my profile. 
