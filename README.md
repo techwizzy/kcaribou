@@ -30,7 +30,7 @@ Main developer of [Scouting](https://scoutinglab.pro/) | Front-End | Back-End | 
 
 Talking about Personal Stuffs:
 
-- 🔭 I'm currently working on outsourcing like [Upwork](https://upwork.com), [Guru](https://guru.com), [Workana](https://workana.com) 
+- 🔭 I'm currently working on outsourcing as freelancer
 - 💬 Ask me about anything, I am happy to help
 ### My Followers
 <!--START_SECTION:top-followers-->
