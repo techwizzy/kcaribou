@@ -26,12 +26,13 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1460579188/357/doom_lost_soul.gif" width="25" height="25"/> 
 </p>
 
-Main developer of [Scouting](https://scoutinglab.pro/) | Front-End | Back-End | WEB | Mobile | API | B2B | WebRTC | eCommerce | Shipping | CRM | OpenCV
+Main developer of [Scouting](https://scoutinglab.pro/) | [XPendpay payment gateway](http://xpendpay.com//) | [SPS Cloud](https://spscloud.io/)
 
 Talking about Personal Stuffs:
 
 - 🔭 I'm a full-time developer for large projects and ready to start your project anytime.
 - 💬 Enterprise application development and support
+- 👨‍💻 All of my projects are available at [DevDreamCatch](https://github.com/devdreamcatch)
 - 🌱 <b>Front-end</b> : Vuejs | Reactjs | Bootstrap
 - 💻 <b>Back-end</b> : Node.js | Django | Ruby on Rails | Laravel | Symfony | CodeIgniter
 - 🏯 <b>Database</b> : Mysql | MongoDB | PostgreSQL
