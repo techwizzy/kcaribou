@@ -34,7 +34,7 @@ Talking about Personal Stuffs:
 - 💬 Enterprise application development and support
 - 🌱 <b>Front-end</b> : Vuejs | Reactjs | Bootstrap
 - 💻 <b>Back-end</b> : Node.js | Django | Ruby on Rails | Laravel | Symfony | CodeIgniter
-- 💬 <b>Database</b> : Mysql | MongoDB | PostgreSQL
+- 🏯 <b>Database</b> : Mysql | MongoDB | PostgreSQL
 - 🐉 <b>CMS</b> : Wordpress | Shopify
 - 📫 Amazon Web Services (Lambda, EC2, S3, DynamoDB, etc), Firebase, Heroku, Trello
 
