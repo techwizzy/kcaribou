@@ -26,18 +26,18 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1460579188/357/doom_lost_soul.gif" width="25" height="25"/> 
 </p>
 
-Main developer of [Scouting](https://scoutinglab.pro/) | [XPendpay payment gateway](http://xpendpay.com//) | [SPS Cloud](https://spscloud.io/)
+Main developer of [Scouting](https://scoutinglab.pro/) | [XPendpay](http://xpendpay.com//) | [SPS Cloud](https://spscloud.io/)
 
 Talking about Personal Stuffs:
 
-- 🔭 I'm a full-time developer for large projects and ready to start your project anytime.
+- 🔭 I'm a full-stack developer for large projects and ready to start your project anytime.
 - 💬 Enterprise application development and support
 - 👨‍💻 All of my projects are available at [DevDreamCatch](https://github.com/devdreamcatch)
 - 🌱 <b>Front-end</b> : Vuejs | Reactjs | Bootstrap
 - 💻 <b>Back-end</b> : Node.js | Django | Ruby on Rails | Laravel | Symfony | CodeIgniter
 - 🏯 <b>Database</b> : Mysql | MongoDB | PostgreSQL
 - 🐉 <b>CMS</b> : Wordpress | Shopify
-- 📫 Amazon Web Services (Lambda, EC2, S3, DynamoDB, etc), Firebase, Heroku, Trello
+- 📫 Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Firebase, Heroku, Trello, Pusher and so on
 
 ### My Followers
 <!--START_SECTION:top-followers-->
