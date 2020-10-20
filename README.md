@@ -30,8 +30,14 @@ Main developer of [Scouting](https://scoutinglab.pro/) | Front-End | Back-End | 
 
 Talking about Personal Stuffs:
 
-- 🔭 I'm currently working on outsourcing as freelancer
-- 💬 Ask me about anything, I am happy to help
+- 🔭 I'm a full-time developer for large projects and ready to start your project anytime.
+- 💬 Enterprise application development and support
+- 🌱 <b>Front-end</b> : Vuejs | Reactjs | Bootstrap
+- 💻 <b>Back-end</b> : Node.js | Django | Ruby on Rails | Laravel | Symfony | CodeIgniter
+- 💬 <b>Database</b> : Mysql | MongoDB | PostgreSQL
+- 🐉 <b>CMS</b> : Wordpress | Shopify
+- 📫 Amazon Web Services (Lambda, EC2, S3, DynamoDB, etc), Firebase, Heroku, Trello
+
 ### My Followers
 <!--START_SECTION:top-followers-->
 <table>
@@ -106,8 +112,8 @@ Talking about Personal Stuffs:
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=kcaribou&show_icons=true&theme=tokyonight">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kcaribou&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
+  <img src = "https://github-readme-stats.vercel.app/api?username=kcaribou&show_icons=true&theme=tokyonight" height="195px">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kcaribou&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="195px">
 </p>
 </details>
 <p align="center">
