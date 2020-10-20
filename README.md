@@ -32,7 +32,6 @@ Talking about Personal Stuffs:
 
 - 🔭 I'm currently working on outsourcing like [Upwork](https://upwork.com), [Guru](https://guru.com), [Workana](https://workana.com) 
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: kcaribou0428@gmail.com
 ### My Followers
 <!--START_SECTION:top-followers-->
 <table>
