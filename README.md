@@ -108,14 +108,12 @@ Talking about Personal Stuffs:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
-<br>
-<p align = "center">
+
+<p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=kcaribou&show_icons=true&theme=tokyonight" height="195px">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kcaribou&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="195px">
 </p>
-</details>
+
 <p align="center">
 <img src="https://github.com/usmcamgrimm/usmcamgrimm/blob/master/code.gif" alt="I love writing code" />
 </p>
