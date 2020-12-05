@@ -32,7 +32,7 @@ Talking about Personal Stuffs:
 
 - 🔭 I'm a full-stack developer for large projects and ready to start your project anytime.
 - 💬 Enterprise application development and support
-- 👨‍💻 All of my projects are available at [DevDreamCatch](https://github.com/devdreamcatch)
+- 👨‍💻 All of my projects are available at [Deal Makers](https://github.com/deal-makers)
 - 🌱 <b>Front-end</b> : Vuejs | Reactjs | Bootstrap
 - 💻 <b>Back-end</b> : Node.js | Django | Ruby on Rails | Laravel | Symfony | CodeIgniter
 - 🏯 <b>Database</b> : Mysql | MongoDB | PostgreSQL
